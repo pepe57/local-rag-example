@@ -1,6 +1,6 @@
 ### Local Assistant Examples
 
-[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://www.buymeacoffee.com/pacha)
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://www.buymeacoffee.com/vndee)
 
 Welcome to the Local Assistant Examples repository — a collection of educational examples built on top of large language models (LLMs). This repository was initially created as part of my blog post, [Build your own RAG and run it locally: Langchain + Ollama + Streamlit](https://blog.duy.dev/build-your-own-rag-and-run-them-locally/).
 
